@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Day3 // Note: actual namespace depends on the project name.
+﻿namespace Day3
 {
     internal class Program
     {
