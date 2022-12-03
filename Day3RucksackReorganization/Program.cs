@@ -65,8 +65,7 @@
                     Program.addLettersToElfList(ref thirdElf, line);
                 }
                 if (current == 3) {
-                    var tmp = firstElf.Select(f => f).ToList().Intersect(secondElf.Select(s => s).ToList()).ToList();
-                    var commonList = tmp.Select(tmp => tmp).ToList().Intersect(thirdElf.Select(t => t).ToList()).ToList();
+                    var commonList = firstElf.Select(f => f).ToList().Intersect(secondElf.Select(s => s).ToList()).ToList().Select(tmp => tmp).ToList().Intersect(thirdElf.Select(t => t).ToList()).ToList();
                     foreach (char letter in commonList)
                     {
                         Program.checkCharPriority(letter, ref priority);
