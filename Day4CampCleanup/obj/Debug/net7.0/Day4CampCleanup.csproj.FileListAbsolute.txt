@@ -1,0 +1,15 @@
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day4CampCleanup\bin\Debug\net7.0\Day4CampCleanup.exe
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day4CampCleanup\bin\Debug\net7.0\Day4CampCleanup.deps.json
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day4CampCleanup\bin\Debug\net7.0\Day4CampCleanup.runtimeconfig.json
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day4CampCleanup\bin\Debug\net7.0\Day4CampCleanup.dll
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day4CampCleanup\bin\Debug\net7.0\Day4CampCleanup.pdb
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day4CampCleanup\obj\Debug\net7.0\Day4CampCleanup.csproj.AssemblyReference.cache
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day4CampCleanup\obj\Debug\net7.0\Day4CampCleanup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day4CampCleanup\obj\Debug\net7.0\Day4CampCleanup.AssemblyInfoInputs.cache
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day4CampCleanup\obj\Debug\net7.0\Day4CampCleanup.AssemblyInfo.cs
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day4CampCleanup\obj\Debug\net7.0\Day4CampCleanup.csproj.CoreCompileInputs.cache
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day4CampCleanup\obj\Debug\net7.0\Day4CampCleanup.dll
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day4CampCleanup\obj\Debug\net7.0\refint\Day4CampCleanup.dll
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day4CampCleanup\obj\Debug\net7.0\Day4CampCleanup.pdb
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day4CampCleanup\obj\Debug\net7.0\Day4CampCleanup.genruntimeconfig.cache
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day4CampCleanup\obj\Debug\net7.0\ref\Day4CampCleanup.dll
