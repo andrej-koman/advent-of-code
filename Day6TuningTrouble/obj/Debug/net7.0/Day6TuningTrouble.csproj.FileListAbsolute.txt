@@ -1,0 +1,15 @@
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day6TuningTrouble\bin\Debug\net7.0\Day6TuningTrouble.exe
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day6TuningTrouble\bin\Debug\net7.0\Day6TuningTrouble.deps.json
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day6TuningTrouble\bin\Debug\net7.0\Day6TuningTrouble.runtimeconfig.json
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day6TuningTrouble\bin\Debug\net7.0\Day6TuningTrouble.dll
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day6TuningTrouble\bin\Debug\net7.0\Day6TuningTrouble.pdb
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day6TuningTrouble\obj\Debug\net7.0\Day6TuningTrouble.csproj.AssemblyReference.cache
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day6TuningTrouble\obj\Debug\net7.0\Day6TuningTrouble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day6TuningTrouble\obj\Debug\net7.0\Day6TuningTrouble.AssemblyInfoInputs.cache
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day6TuningTrouble\obj\Debug\net7.0\Day6TuningTrouble.AssemblyInfo.cs
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day6TuningTrouble\obj\Debug\net7.0\Day6TuningTrouble.csproj.CoreCompileInputs.cache
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day6TuningTrouble\obj\Debug\net7.0\Day6TuningTrouble.dll
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day6TuningTrouble\obj\Debug\net7.0\refint\Day6TuningTrouble.dll
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day6TuningTrouble\obj\Debug\net7.0\Day6TuningTrouble.pdb
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day6TuningTrouble\obj\Debug\net7.0\Day6TuningTrouble.genruntimeconfig.cache
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day6TuningTrouble\obj\Debug\net7.0\ref\Day6TuningTrouble.dll
