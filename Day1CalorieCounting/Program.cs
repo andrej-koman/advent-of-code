@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace CalorieCounting // Note: actual namespace depends on the project name.
+namespace CalorieCounting 
 {
     internal class Program
     {
@@ -21,8 +21,6 @@ namespace CalorieCounting // Note: actual namespace depends on the project name.
                 current += Int32.Parse(line);
             }
             calories.Sort(); 
-
-            Console.WriteLine("Second solution: " + calories.Skip(calories.Max(0, calories.Count() - 3)).Sum());
         }
     }
 }
