@@ -1,0 +1,15 @@
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day1CalorieCounting\bin\Debug\net6.0\Day1CalorieCounting.exe
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day1CalorieCounting\bin\Debug\net6.0\Day1CalorieCounting.deps.json
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day1CalorieCounting\bin\Debug\net6.0\Day1CalorieCounting.runtimeconfig.json
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day1CalorieCounting\bin\Debug\net6.0\Day1CalorieCounting.dll
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day1CalorieCounting\bin\Debug\net6.0\Day1CalorieCounting.pdb
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day1CalorieCounting\obj\Debug\net6.0\Day1CalorieCounting.csproj.AssemblyReference.cache
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day1CalorieCounting\obj\Debug\net6.0\Day1CalorieCounting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day1CalorieCounting\obj\Debug\net6.0\Day1CalorieCounting.AssemblyInfoInputs.cache
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day1CalorieCounting\obj\Debug\net6.0\Day1CalorieCounting.AssemblyInfo.cs
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day1CalorieCounting\obj\Debug\net6.0\Day1CalorieCounting.csproj.CoreCompileInputs.cache
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day1CalorieCounting\obj\Debug\net6.0\Day1CalorieCounting.dll
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day1CalorieCounting\obj\Debug\net6.0\refint\Day1CalorieCounting.dll
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day1CalorieCounting\obj\Debug\net6.0\Day1CalorieCounting.pdb
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day1CalorieCounting\obj\Debug\net6.0\Day1CalorieCounting.genruntimeconfig.cache
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day1CalorieCounting\obj\Debug\net6.0\ref\Day1CalorieCounting.dll

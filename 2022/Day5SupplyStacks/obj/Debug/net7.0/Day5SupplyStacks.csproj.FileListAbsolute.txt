@@ -1,0 +1,15 @@
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day5SupplyStacks\bin\Debug\net7.0\Day5SupplyStacks.exe
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day5SupplyStacks\bin\Debug\net7.0\Day5SupplyStacks.deps.json
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day5SupplyStacks\bin\Debug\net7.0\Day5SupplyStacks.runtimeconfig.json
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day5SupplyStacks\bin\Debug\net7.0\Day5SupplyStacks.dll
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day5SupplyStacks\bin\Debug\net7.0\Day5SupplyStacks.pdb
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day5SupplyStacks\obj\Debug\net7.0\Day5SupplyStacks.csproj.AssemblyReference.cache
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day5SupplyStacks\obj\Debug\net7.0\Day5SupplyStacks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day5SupplyStacks\obj\Debug\net7.0\Day5SupplyStacks.AssemblyInfoInputs.cache
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day5SupplyStacks\obj\Debug\net7.0\Day5SupplyStacks.AssemblyInfo.cs
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day5SupplyStacks\obj\Debug\net7.0\Day5SupplyStacks.csproj.CoreCompileInputs.cache
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day5SupplyStacks\obj\Debug\net7.0\Day5SupplyStacks.dll
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day5SupplyStacks\obj\Debug\net7.0\refint\Day5SupplyStacks.dll
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day5SupplyStacks\obj\Debug\net7.0\Day5SupplyStacks.pdb
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day5SupplyStacks\obj\Debug\net7.0\Day5SupplyStacks.genruntimeconfig.cache
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day5SupplyStacks\obj\Debug\net7.0\ref\Day5SupplyStacks.dll

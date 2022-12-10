@@ -1,0 +1,15 @@
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day3RucksackReorganization\bin\Debug\net6.0\Day3RucksackReorganization.exe
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day3RucksackReorganization\bin\Debug\net6.0\Day3RucksackReorganization.deps.json
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day3RucksackReorganization\bin\Debug\net6.0\Day3RucksackReorganization.runtimeconfig.json
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day3RucksackReorganization\bin\Debug\net6.0\Day3RucksackReorganization.dll
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day3RucksackReorganization\bin\Debug\net6.0\Day3RucksackReorganization.pdb
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day3RucksackReorganization\obj\Debug\net6.0\Day3RucksackReorganization.csproj.AssemblyReference.cache
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day3RucksackReorganization\obj\Debug\net6.0\Day3RucksackReorganization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day3RucksackReorganization\obj\Debug\net6.0\Day3RucksackReorganization.AssemblyInfoInputs.cache
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day3RucksackReorganization\obj\Debug\net6.0\Day3RucksackReorganization.AssemblyInfo.cs
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day3RucksackReorganization\obj\Debug\net6.0\Day3RucksackReorganization.csproj.CoreCompileInputs.cache
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day3RucksackReorganization\obj\Debug\net6.0\Day3RucksackReorganization.dll
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day3RucksackReorganization\obj\Debug\net6.0\refint\Day3RucksackReorganization.dll
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day3RucksackReorganization\obj\Debug\net6.0\Day3RucksackReorganization.pdb
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day3RucksackReorganization\obj\Debug\net6.0\Day3RucksackReorganization.genruntimeconfig.cache
+C:\Users\gtasr\OneDrive\Namizje\code\advent-of-code\Day3RucksackReorganization\obj\Debug\net6.0\ref\Day3RucksackReorganization.dll
